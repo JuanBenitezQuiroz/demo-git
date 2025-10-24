@@ -1,3 +1,3 @@
-# Demo git
+# Demo Git
 
 ## Cambios en rama dev
